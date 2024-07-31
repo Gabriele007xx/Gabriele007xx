@@ -13,7 +13,7 @@ I am also on the following socials:
 
 ![image](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)
 
-Technologies that I use and currently I'm learning:
+Technologies that I use and currently learning:
 
 ![image](https://github.com/user-attachments/assets/1e9a3162-258d-441e-9c65-e743ab8e01b5)
 ![image](https://github.com/user-attachments/assets/ac7530d6-3677-40ca-b375-ea530aa2d002)
