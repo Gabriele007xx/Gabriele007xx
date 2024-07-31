@@ -15,5 +15,5 @@ I am also on the following socials:
 
 Technologies I use:
 
-![image](https://www.mutaz.pro/img/win/341831Node%20js.png)
+![image](https://github.com/user-attachments/assets/1e9a3162-258d-441e-9c65-e743ab8e01b5)
 ![image](https://cdn.iconscout.com/icon/free/png-256/free-git-225996.png?f=webp&w=256)
