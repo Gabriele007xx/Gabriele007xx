@@ -19,7 +19,7 @@ I am also on the following socials:
 ![image](https://github.com/user-attachments/assets/ac7530d6-3677-40ca-b375-ea530aa2d002)
 ![image](https://github.com/user-attachments/assets/323458d1-7348-4876-adc8-4fb2f1ed40e6)
 
-## Stats
+## Stats (public repos)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriele007xx)](https://github.com/anuraghazra/github-readme-stats)
 
