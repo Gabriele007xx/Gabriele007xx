@@ -16,4 +16,5 @@ I am also on the following socials:
 Technologies I use:
 
 ![image](https://github.com/user-attachments/assets/1e9a3162-258d-441e-9c65-e743ab8e01b5)
-![image](https://cdn.iconscout.com/icon/free/png-256/free-git-225996.png?f=webp&w=256)
+![image](https://github.com/user-attachments/assets/ac7530d6-3677-40ca-b375-ea530aa2d002)
+
