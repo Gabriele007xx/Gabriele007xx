@@ -13,10 +13,13 @@ I am also on the following socials:
 
 ![image](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)
 
-Technologies that I use and currently learning:
+## Technologies that I use and currently learning:
 
 ![image](https://github.com/user-attachments/assets/1e9a3162-258d-441e-9c65-e743ab8e01b5)
 ![image](https://github.com/user-attachments/assets/ac7530d6-3677-40ca-b375-ea530aa2d002)
 ![image](https://github.com/user-attachments/assets/323458d1-7348-4876-adc8-4fb2f1ed40e6)
 
+## Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriele007xx)](https://github.com/anuraghazra/github-readme-stats)
 
