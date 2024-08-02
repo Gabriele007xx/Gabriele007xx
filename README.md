@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Gabriele007xx
+# 👋 Hi, I’m @Gabriele007xx aka Gabriele Lo Re
 
 - 👀 I’m interested in computer science.
 - - I also like automotive🔧🚗, gaming🎮, vintage, and do outdoor sports sometimes🏃🚲.
