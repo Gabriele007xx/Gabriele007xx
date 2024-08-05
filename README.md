@@ -22,4 +22,5 @@ I am also on the following socials:
 ## Stats (public repos)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriele007xx&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriele007xx&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
