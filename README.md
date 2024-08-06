@@ -4,6 +4,8 @@
 - - I also like automotive🔧🚗, gaming🎮, vintage, and do outdoor sports sometimes🏃🚲.
 - 🌱 I’m currently learning Web development, focusing on the back-end.
 - 💞️ I’m very collaborative and open
+
+You will find various repos with random stuff/languages used. That's because I like to experiment different technologies😁.
   
 ## How to reach me
 
