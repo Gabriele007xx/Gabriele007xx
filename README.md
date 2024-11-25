@@ -25,7 +25,7 @@ I am also on the following socials:
 
 ### Frameworks
 
-![Static Badge](https://img.shields.io/badge/node.js-5FA04E?logo=node.js&logoColor=white)![image](https://github.com/user-attachments/assets/c4f9f080-3623-4962-8404-b472b75fa0e4)
+![Static Badge](https://img.shields.io/badge/node.js-5FA04E?logo=node.js&logoColor=white)![Static Badge](https://img.shields.io/badge/react-001164)
 
 
 ### Tools/Other
